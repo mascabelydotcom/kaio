@@ -1,0 +1,13 @@
+    .meu-botao {
+      background-color: #4CAF50; /* Cor de fundo verde */
+      color: purple; /* Cor do texto branca */
+      padding: 10px 20px; /* Preenchimento interno (altura e largura) */
+      border: none; /* Sem borda */
+      cursor: pointer; /* Muda o cursor do mouse */
+      border-radius: 5px; /* Cantos arredondados */
+    }
+
+    /* Estilo para quando o mouse passar por cima do botão */
+    .meu-botao:hover {
+      background-color: #45a049; /* Cor de fundo mais escura */
+    }
